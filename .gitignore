@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# Flask specific files
+instance/
+.webassets-cache
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Configuration files
+*.log
+*.sqlite3
+*.db
+*.pid
+
+# Distribution files
+dist/
+build/
+*.egg-info/
+
+# Ignore sensitive information
+*.env
