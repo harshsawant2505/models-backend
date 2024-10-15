@@ -2,6 +2,8 @@
 from config import app
 from flask import request, jsonify
 
+#done some
+
 
 @app.route("/", methods=["GET"])
 def home():
