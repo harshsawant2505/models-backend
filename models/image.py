@@ -7,14 +7,14 @@ from tensorflow.keras.models import load_model
 from scipy.spatial.distance import cosine
 
 
-model = load_model(r'C:\Users\PARSHURAM\OneDrive\Desktop\models-backend\models\vgg16_model.h5')
+loaded_model = tf.keras.models.load_model('C:\\Users\\PARSHURAM\\OneDrive\\Desktop\\models-backend\\models\\vgg16_model.h5')
 
 def extract_vgg16_features(img_path):
     img = image.load_img(img_path, target_size=(224, 224))
     img_array = image.img_to_array(img)
     img_array = np.expand_dims(img_array, axis=0)
     img_array = preprocess_input(img_array)
-    features = model.predict(img_array)
+    features = loaded_model.predict(img_array)
     return features.flatten()
 
 def calculate_histogram(img_path):
