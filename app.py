@@ -1,4 +1,5 @@
 from models.image import cosine_calculate
+from models.imageclassify import calculate_similarity
 from config import app
 from flask import request, jsonify
 
@@ -10,6 +11,7 @@ img = 'C:\Users\PARSHURAM\OneDrive\Desktop\models-backend\models\taj mahal3.jpg'
 @app.route("/", methods=["GET"])
 def home():
     k = cosine_calculate(img,img)
+    print(k)
     return jsonify({"data": "Data from python flask server get route"})
 
 
