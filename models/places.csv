@@ -1,0 +1,103 @@
+index_no,place_name,city_name,terrain,architecture,religion,activities,sports,mood,food,attractions,animals_found
+0,Malpe Beach,Udupi,Beach,None,None,"Swimming, Boat Rides",Water Sports,Relaxation,Seafood,"Beach, Islands",Marine Life
+1,Sri Krishna Temple,Udupi,Urban,Dravidian,Hinduism,Pilgrimage,None,Spiritual,Prasadam,"Temple, Rituals",Cows
+2,Kapu Beach,Udupi,Beach,None,None,Lighthouse Visit,Beach Sports,Scenic,Street Food,"Lighthouse, Beach",Marine Life
+3,St. Mary's Island,Udupi,Island,None,None,"Boating, Swimming",Water Sports,Adventurous,Seafood,"Basalt Rocks, Beaches",Marine Life
+4,Kudlu Falls,Udupi,Waterfall,None,None,Trekking,None,Scenic,None,"Waterfall, Trekking",Wildlife
+5,Udupi Chandramouleshwara Temple,Udupi,Urban,Dravidian,Hinduism,Pilgrimage,None,Spiritual,Prasadam,"Temple, Rituals",None
+6,Udupi Anantheshwara Temple,Udupi,Urban,Dravidian,Hinduism,Pilgrimage,None,Spiritual,Prasadam,"Temple, Rituals",None
+7,Jomlu Theertha,Udupi,River,None,None,"Trekking, Sightseeing",None,Adventurous,None,Waterfalls,Wildlife
+8,Maravanthe Beach,Udupi,Beach,None,None,Water Sports,Water Sports,Relaxation,Seafood,"Beach, Scenic Views",Marine Life
+9,Manipal End Point,Manipal,Hills,None,None,"Trekking, Picnicking",None,Relaxation,Street Food,"River View, Hills",None
+10,Amer Fort,Jaipur,Hill,Rajput,Hinduism,Sightseeing,None,Historic,Local Cuisine,"Fort, Palaces",None
+11,Taj Mahal,Agra,Urban,Mughal,Islam,Sightseeing,None,Romantic,Local Cuisine,"Monument, Gardens",None
+12,Hawa Mahal,Jaipur,Urban,Rajput,Hinduism,Sightseeing,None,Historic,Street Food,"Palace, Architecture",None
+13,Meenakshi Temple,Madurai,Urban,Dravidian,Hinduism,Pilgrimage,None,Spiritual,South Indian,"Temple, Rituals",Elephants
+14,Ajanta Caves,Aurangabad,Hill,None,Buddhism,Sightseeing,None,Historic,Local Cuisine,"Caves, Frescoes",None
+15,Ellora Caves,Aurangabad,Hill,None,Hinduism,Sightseeing,None,Historic,Local Cuisine,"Caves, Sculptures",None
+16,Red Fort,Delhi,Urban,Mughal,Islam,Sightseeing,None,Historic,Street Food,"Fort, Museums",None
+17,Qutub Minar,Delhi,Urban,Mughal,Islam,Sightseeing,None,Historic,Street Food,"Monument, History",None
+18,Gateway of India,Mumbai,Urban,Indo-Saracenic,None,Sightseeing,None,Relaxation,Street Food,"Monument, Seafront",None
+19,Marine Drive,Mumbai,Urban,None,None,Walking,None,Relaxation,Street Food,"Seafront, Skyline",None
+20,Mysore Palace,Mysore,Urban,Indo-Saracenic,Hinduism,Sightseeing,None,Historic,Local Cuisine,"Palace, Gardens",None
+21,Ladakh Range,Ladakh,Mountain,None,Buddhism,Trekking,Mountaineering,Adventurous,Local Cuisine,"Mountains, Monasteries",Wildlife
+22,Valley of Flowers,Uttarakhand,Mountain,None,Hinduism,Trekking,None,Serene,None,"Floral Landscapes, Trekking",Wildlife
+23,Jim Corbett National Park,Uttarakhand,Forest,None,None,Safari,None,Adventurous,None,"Wildlife, Nature",Tigers
+24,Backwaters,Alleppey,River,None,None,Houseboat Ride,None,Relaxation,Seafood,"Lagoons, Scenic Views",Birds
+25,Kumarakom,Kerala,Lake,None,None,Houseboat Ride,None,Relaxation,South Indian,"Lake, Houseboats",Birds
+26,Golden Temple,Amritsar,Urban,Sikh,Hinduism,Pilgrimage,None,Spiritual,Punjabi Food,"Temple, Spirituality",Fish
+27,Varkala Beach,Varkala,Beach,None,None,Surfing,None,Relaxation,Seafood,"Beach, Cliffs",Marine Life
+28,Andaman Islands,Andaman,Island,None,None,Scuba Diving,Water Sports,Adventurous,Seafood,"Beaches, Coral Reefs",Marine Life
+29,Manali,Manali,Mountain,None,Hinduism,Trekking,None,Serene,Local Cuisine,"Mountains, Temples",Wildlife
+30,Darjeeling,Darjeeling,Hill,None,Hinduism,Sightseeing,None,Serene,Local Cuisine,"Tea Gardens, Scenic Views",Wildlife
+31,Kanha National Park,Madhya Pradesh,Forest,None,None,Safari,None,Adventurous,None,"Wildlife, Nature",Tigers
+32,Pangong Lake,Ladakh,Lake,None,None,Trekking,None,Serene,None,"Lake, Scenic Views",Birds
+33,Sundarbans,West Bengal,Mangrove,None,None,Safari,None,Adventurous,None,"Mangroves, Nature",Tigers
+34,Rann of Kutch,Kutch,Desert,None,None,Desert Safari,None,Serene,Local Cuisine,"Salt Desert, Festivals",Wildlife
+35,Gir National Park,Gujarat,Forest,None,None,Safari,None,Adventurous,None,"Wildlife, Nature",Lions
+36,City Palace,Udaipur,Hill,Rajput,Hinduism,Sightseeing,None,Historic,Local Cuisine,"Palace, Lakes",Peacocks
+37,Amber Palace,Jaipur,Hill,Rajput,Hinduism,Sightseeing,None,Historic,Local Cuisine,"Fort, Scenic Views",None
+38,Charminar,Hyderabad,Urban,Qutb Shahi,Islam,Sightseeing,None,Historic,Hyderabadi Biryani,"Monument, Markets",None
+39,Golkonda Fort,Hyderabad,Urban,Qutb Shahi,Islam,Sightseeing,None,Historic,Local Cuisine,"Fort, History",None
+40,Chilika Lake,Odisha,Lake,None,None,Boating,None,Relaxation,Local Cuisine,"Lake, Birdwatching",Birds
+41,Hampi,Hampi,Rocky,Dravidian,Hinduism,Sightseeing,None,Historic,South Indian,"Ruins, Temples",Monkeys
+42,Rishikesh,Uttarakhand,Mountain,None,Hinduism,Rafting,Adventure Sports,Spiritual,None,"River, Temples",None
+43,Haridwar,Uttarakhand,River,None,Hinduism,Pilgrimage,None,Spiritual,None,"River, Rituals",None
+44,Sanchi Stupa,Sanchi,Hill,None,Buddhism,Sightseeing,None,Historic,None,"Stupa, Sculptures",None
+45,Jaisalmer Fort,Jaisalmer,Desert,Rajput,Hinduism,Sightseeing,None,Historic,Local Cuisine,"Fort, Sand Dunes",None
+46,Pushkar Lake,Pushkar,Lake,None,Hinduism,Pilgrimage,None,Spiritual,Rajasthani Food,"Lake, Temples",None
+47,Kaziranga National Park,Assam,Forest,None,None,Safari,None,Adventurous,None,"Wildlife, Nature",Rhinos
+48,Tawang Monastery,Tawang,Mountain,Buddhist,Buddhism,Pilgrimage,None,Spiritual,None,"Monastery, Mountains",None
+49,Jog Falls,Karnataka,Waterfall,None,None,Sightseeing,None,Scenic,Local Cuisine,"Waterfall, Scenic Views",None
+50,Bandhavgarh National Park,Madhya Pradesh,Forest,None,None,Safari,None,Adventurous,None,"Wildlife, Nature",Tigers
+51,Elephanta Caves,Mumbai,Island,None,Hinduism,Sightseeing,None,Historic,Street Food,"Caves, Sculptures",Monkeys
+52,Baga Beach,Goa,Beach,None,None,Water Sports,None,Relaxation,Seafood,"Beach, Nightlife",Marine Life
+53,Calangute Beach,Goa,Beach,None,None,Water Sports,None,Relaxation,Seafood,"Beach, Nightlife",Marine Life
+54,Aguada Fort,Goa,Hill,Portuguese,None,Sightseeing,None,Relaxation,Seafood,"Fort, Scenic Views",None
+55,Bhimbetka Caves,Madhya Pradesh,Hill,None,Hinduism,Sightseeing,None,Historic,Local Cuisine,"Caves, Rock Paintings",None
+56,Mehrangarh Fort,Jodhpur,Hill,Rajput,Hinduism,Sightseeing,None,Historic,Rajasthani Food,"Fort, Museums",None
+57,Kovalam Beach,Kerala,Beach,None,None,Surfing,None,Relaxation,Seafood,"Beach, Lighthouses",Marine Life
+58,Coorg,Coorg,Hill,None,None,Trekking,None,Serene,Local Cuisine,"Coffee Plantations, Scenic Views",Wildlife
+59,Ooty,Ooty,Hill,None,None,Trekking,None,Serene,Local Cuisine,"Tea Gardens, Scenic Views",Wildlife
+60,Shimla,Shimla,Hill,None,None,Trekking,None,Serene,Street Food,"Mountains, Colonial Architecture",Wildlife
+61,Kanha National Park,Madhya Pradesh,Forest,None,None,Safari,None,Adventurous,None,"Wildlife, Nature",Tigers
+62,Dudhsagar Falls,Goa,Waterfall,None,None,Trekking,None,Adventurous,Street Food,"Waterfall, Scenic Views",None
+63,Nanda Devi,Uttarakhand,Mountain,None,Hinduism,Trekking,None,Adventurous,None,"Mountain, Scenic Views",Wildlife
+64,Ranipuram Hills,Karnataka,Hill,None,None,Trekking,None,Serene,None,"Hill, Scenic Views",Wildlife
+65,Rathambore National Park,Rajasthan,Forest,None,None,Safari,None,Adventurous,None,"Wildlife, Nature",Tigers
+66,Varanasi Ghats,Varanasi,River,None,Hinduism,Pilgrimage,None,Spiritual,None,"Ghats, Temples",None
+67,Bhedaghat Waterfalls,Jabalpur,Waterfall,None,None,Sightseeing,None,Scenic,None,"Waterfall, Marble Rocks",None
+68,Puri Beach,Puri,Beach,None,Hinduism,Pilgrimage,None,Relaxation,Seafood,"Beach, Temples",Marine Life
+69,Lakshadweep Islands,Lakshadweep,Island,None,None,Scuba Diving,None,Adventurous,Seafood,"Beaches, Coral Reefs",Marine Life
+71,Chitradurga Fort,Chitradurga,Hill,None,None,Sightseeing,None,Historic,Local Cuisine,"Fort, Scenic Views",None
+72,Bhutanatha Temple,Badami,Rock,None,Hinduism,Pilgrimage,None,Spiritual,Local Cuisine,"Temple, Cave Structures",None
+73,Sun Temple,Konark,Beach,Kalinga,Hinduism,Sightseeing,None,Historic,Local Cuisine,"Temple, Sun Dial",None
+74,Loktak Lake,Manipur,Lake,None,None,Boating,None,Relaxation,Local Cuisine,"Floating Islands, Scenic Views",Birds
+75,Majuli Island,Assam,River,None,Hinduism,Boating,None,Spiritual,Local Cuisine,"River Island, Monasteries",Birds
+76,Basilica of Bom Jesus,Goa,Urban,Portuguese,Christianity,Pilgrimage,None,Spiritual,Local Cuisine,"Church, Relics",None
+77,Chilkur Balaji Temple,Hyderabad,Urban,Dravidian,Hinduism,Pilgrimage,None,Spiritual,Street Food,"Temple, Rituals",None
+78,Hogenakkal Falls,Tamil Nadu,Waterfall,None,None,Boating,None,Scenic,Street Food,"Waterfalls, Scenic Views",None
+79,Kailasa Temple,Ellora,Hill,None,Hinduism,Sightseeing,None,Historic,Local Cuisine,"Cave Temples, Sculptures",None
+80,Nalanda University,Bihar,Urban,None,Buddhism,Sightseeing,None,Historic,Local Cuisine,"Ruins, History",None
+81,Shore Temple,Mahabalipuram,Beach,Dravidian,Hinduism,Sightseeing,None,Historic,Local Cuisine,"Temple, Beachside",None
+82,Pench National Park,Madhya Pradesh,Forest,None,None,Safari,None,Adventurous,None,"Wildlife, Nature",Tigers
+83,Mount Abu,Rajasthan,Hill,None,None,Trekking,None,Serene,Local Cuisine,"Hill Station, Lakes",Wildlife
+84,Kumbhalgarh Fort,Rajasthan,Hill,Rajput,Hinduism,Sightseeing,None,Historic,Local Cuisine,"Fort, Scenic Views",None
+85,Bandipur National Park,Karnataka,Forest,None,None,Safari,None,Adventurous,None,"Wildlife, Nature",Elephants
+86,Lonavala,Maharashtra,Hill,None,None,Trekking,None,Relaxation,Street Food,"Hill Station, Caves",None
+87,Matheran,Maharashtra,Hill,None,None,Trekking,None,Serene,Street Food,"Hill Station, Scenic Views",None
+88,Silent Valley,Kerala,Forest,None,None,Trekking,None,Serene,Local Cuisine,"Rainforest, Nature",Wildlife
+89,Periyar Wildlife Sanctuary,Kerala,Forest,None,None,Safari,None,Adventurous,South Indian,"Sanctuary, Scenic Views",Elephants
+90,Pachmarhi,Madhya Pradesh,Hill,None,None,Trekking,None,Serene,Local Cuisine,"Hill Station, Waterfalls",Wildlife
+91,Brihadeeswarar Temple,Tamil Nadu,Urban,Dravidian,Hinduism,Pilgrimage,None,Spiritual,South Indian,"Temple, Architecture",None
+92,Gangotri,Uttarakhand,Mountain,None,Hinduism,Trekking,None,Spiritual,None,"Mountains, River",None
+93,Yamunotri,Uttarakhand,Mountain,None,Hinduism,Trekking,None,Spiritual,None,"Mountains, River",None
+94,Dwarka,Gujarat,Coastal,Dravidian,Hinduism,Pilgrimage,None,Spiritual,Gujarati Food,"Temple, Beach",None
+95,Chota Char Dham,Uttarakhand,Mountain,None,Hinduism,Trekking,None,Spiritual,None,"Mountains, Temples",None
+96,Saputara,Gujarat,Hill,None,None,Trekking,None,Relaxation,Local Cuisine,"Hill Station, Gardens",None
+97,Rohtang Pass,Himachal Pradesh,Mountain,None,None,Snow Sports,Adventure Sports,Adventurous,None,"Mountain Pass, Snow",None
+98,Lohagad Fort,Maharashtra,Hill,None,None,Trekking,None,Historic,Street Food,"Fort, Scenic Views",None
+99,Dhanaulti,Uttarakhand,Hill,None,None,Trekking,None,Serene,Local Cuisine,"Hill Station, Scenic Views",None
+100,Velankanni Church,Tamil Nadu,Coastal,Colonial,Christianity,Pilgrimage,None,Spiritual,Seafood,"Church, Beachside",None
+
+

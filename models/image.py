@@ -7,7 +7,7 @@ from tensorflow.keras.models import load_model
 from scipy.spatial.distance import cosine
 
 
-loaded_model = tf.keras.models.load_model('C:\\Users\\PARSHURAM\\OneDrive\\Desktop\\models-backend\\models\\vgg16_model.h5')
+loaded_model = tf.keras.models.load_model('models\\vgg16_model.h5')
 
 def extract_vgg16_features(img_path):
     img = image.load_img(img_path, target_size=(224, 224))
